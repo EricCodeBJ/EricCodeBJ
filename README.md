@@ -1,0 +1,3 @@
+- 👋 I’m DEKOUN Cédric, @EricCodeBJ
+- 👀 I’m interested in Web Dev & Android mobile app
+- 📫 Contact: cedricdekoun@gmail.com
